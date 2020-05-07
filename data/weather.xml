@@ -40,32 +40,32 @@
     </clouds>
     <rain>
         <probability>
-            <value period="3">0.58</value><!--January-->
+            <value period="3">0.48</value><!--January-->
             <value period="4">0.4</value><!--February-->
-            <value period="5">0.19</value><!--March-->
+            <value period="5">0.9</value><!--March-->
             <value period="6">0.2</value><!--April-->
-            <value period="7">0.16</value><!--May-->
-            <value period="8">0.16</value><!--June-->
+            <value period="7">0.6</value><!--May-->
+            <value period="8">0.6</value><!--June-->
             <value period="9">0.2</value><!--July-->
             <value period="10">0.22</value><!--August-->
             <value period="11">0.43</value><!--September-->
-            <value period="12">0.58</value><!--October-->
-            <value period="1">0.67</value><!--November-->
-            <value period="2">0.68</value><!--December-->
+            <value period="12">0.48</value><!--October-->
+            <value period="1">0.57</value><!--November-->
+            <value period="2">0.58</value><!--December-->
         </probability>
         <rainfall>
-            <value period="3">295</value><!--January-->
-            <value period="4">157</value><!--February-->
-            <value period="5">61</value><!--March-->
-            <value period="6">44</value><!--April-->
-            <value period="7">37</value><!--May-->
-            <value period="8">36</value><!--June-->
-            <value period="9">39</value><!--July-->
-            <value period="10">84</value><!--August-->
-            <value period="11">148</value><!--September-->
+            <value period="3">195</value><!--January-->
+            <value period="4">97</value><!--February-->
+            <value period="5">51</value><!--March-->
+            <value period="6">34</value><!--April-->
+            <value period="7">27</value><!--May-->
+            <value period="8">26</value><!--June-->
+            <value period="9">29</value><!--July-->
+            <value period="10">74</value><!--August-->
+            <value period="11">98</value><!--September-->
             <value period="12">371</value><!--October-->
-            <value period="1">518</value><!--November-->
-            <value period="2">436</value><!--December-->
+            <value period="1">318</value><!--November-->
+            <value period="2">236</value><!--December-->
         </rainfall>
     </rain>
     <wind>

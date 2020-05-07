@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <modDesc descVersion="47">
     <author>EDGE Gaming / Castiga</author>
-    <version>1.0.0.0</version>
+    <version>2.0.0.0</version>
 	<title><!-- en=English de=German fr=French es=Spanish ru=Russian pl=Polish it=Italian br=Brazilian-Portuguese cs=Chinese(Simplified) ct=Chinese(Traditional) cz=Czech nl=Netherlands hu=Hungary jp=Japanese kr=Korean pt=Portuguese ro=Romanian tr=Turkish -->
         <en>Seasons GEO: Crater Bay</en>
         <de>Seasons GEO: Crater Bay</de>
@@ -33,7 +33,13 @@ Agriculture in Madagascar is heavily influenced by the island's rainfall, which 
 Livestock and forestry are also two important sectors in Madagascar, with extensive stands of ebony, rosewood and mahogany flourish on the East coast.
 While Livestock is widespread, with about 60 percent of rural families depending on it for their income. Animal production is dominated by extensive livestock rearing, pigs and poultry. There is also a growing modern poultry industry around the main cities.
 
-The latest version of the Seasons mod is required.]]></en>
+The latest version of the Seasons mod is required.
+
+Changelog 2.0.0.0:
+- Fixed Additional Fruitypes for Crater Bay.
+- Made Grass growth more realitic.
+- Lowered Rain amounts in rain Season. (due to struggles with harvesting wet crops.)
+- Changed a few Crop Harvest times to be more realistic.]]></en>
         <de><![CDATA[Crater Bay ist eine GEO-Modifikation für Jahreszeiten, die die Landwirtschaft im Bundesstaat Crater Bay, Nosy Be (Provinz Antsiranana) an der Nordküste Madagaskars simuliert.
 
 Diese von den tropischen Regenwäldern Madagaskars umgebene Region genießt ein tropisches Klima mit viel Sonnenlicht während der Trockenzeit, aber auch einem sehr trockenen und feuchten Klima während der Regenzeit. Die Landwirtschaft ist ein wichtiger Sektor Madagaskars, in dem hauptsächlich Vanilleschoten und Reis angebaut werden. Reis ist das Grundnahrungsmittel und bedeckt 1,34 Millionen Hektar im ganzen Land, mit Ausnahme einiger halbtrockener Gebiete im Süden und im Südwesten sowohl regengespeiste als auch bewässerte Systeme. Weitere Nahrungspflanzen sind Mais (hauptsächlich in den Regionen Süd- und Zentralostasien angebaut), Maniok, Sorghum (im Süden), Bohnen, Erdnüsse, Süßkartoffeln und eine Vielzahl von Gemüsen. Maniok ist ein wichtiger Bestandteil der Risikominderungsstrategie des Kleinbauern, da er trockenheitstolerant und krankheitsresistent ist. Maniok, Süßkartoffel und Mais sind die Hauptkalorienquelle in der mageren Jahreszeit (von September bis Januar). Erdnuss wird an den meisten Standorten auf sandigen Böden angebaut und leistet einen wichtigen Beitrag zur Ernährung und zum Haushaltseinkommen. Die wichtigsten Erntegüter sind Baumwolle, Vanille, Kaffee, Litschi, Pfeffer, Tabak, Erdnuss, Zuckerrohr, Sisal, Nelke und Ylang-Ylang.
@@ -43,7 +49,13 @@ Die Landwirtschaft in Madagaskar wird stark von den Niederschlägen der Insel be
 Viehzucht und Forstwirtschaft sind auch zwei wichtige Sektoren in Madagaskar. An der Ostküste gedeihen umfangreiche Bestände aus Ebenholz, Rosenholz und Mahagoni.
 Während Viehzucht weit verbreitet ist, sind etwa 60 Prozent der ländlichen Familien auf dieses Vieh angewiesen, um ihr Einkommen zu sichern. Die Tierproduktion wird von extensiver Viehzucht, Schweinen und Geflügel dominiert. Es gibt auch eine wachsende moderne Geflügelindustrie in den Hauptstädten.
 
-Es wird die neuste Version vom Seasons mod benötigt.]]></de>
+Es wird die neuste Version vom Seasons mod benötigt.
+
+Änderungsprotokoll 2.0.0.0:
+- Zusätzliche Fruitypes für Crater Bay behoben.
+- Das Graswachstum wurde realistischer.
+- Geringere Regenmengen in der Regenzeit. (Aufgrund von Schwierigkeiten bei der Ernte nasser Pflanzen.)
+- Einige Erntezeiten wurden geändert, um realistischer zu sein.]]></de>
         <fr><![CDATA[Crater Bay est un mod GEO pour Seasons qui simule l'agriculture dans l'état de Crater Bay, Nosy Be (province d'Antsiranana), sur la côte nord de Madagascar.
 
 Bordée par les forêts tropicales tropicales de Madagascar, cette région bénéficie d'un climat tropical avec beaucoup de soleil pendant la saison sèche, mais aussi d'un climat très aride et humide pendant la saison des pluies. L’agriculture est un secteur important de Madagascar où l’on cultive principalement de la vanille et du riz. Le riz est l’aliment de base, couvrant 1,34 million d’hectares dans tout le pays, à l’exception de certaines zones semi-arides du sud et du sud-ouest systèmes pluviaux et irrigués. Le maïs (principalement cultivé dans les régions du sud et du centre-est), le manioc, le sorgho (au sud), les haricots, les arachides, les patates douces et une grande variété de légumes figurent parmi les autres cultures vivrières. Le manioc est un élément important de la stratégie de réduction des risques des petits exploitants, car il résiste à la sécheresse et aux maladies. Le manioc, la patate douce et le maïs sont la principale source de calories en période de soudure (de septembre à janvier). L'arachide est cultivée sur des sols sableux dans la plupart des endroits et contribue de manière importante au régime alimentaire et au revenu du ménage. Les principales cultures de rapport sont le coton, la vanille, le café, le litchi, le poivre, le tabac, l'arachide, la canne à sucre, le sisal, le clou de girofle et l'ylang-ylang.
@@ -53,7 +65,13 @@ L'agriculture à Madagascar est fortement influencée par les précipitations de
 L'élevage et la foresterie sont également deux secteurs importants à Madagascar, avec de vastes peuplements d'ébène, de bois de rose et d'acajou florissant sur la côte est.
 Bien que le bétail soit répandu, environ 60% des familles rurales dépendent de son revenu. La production animale est dominée par l'élevage extensif, les porcs et la volaille. Il existe également une industrie avicole moderne en pleine croissance dans les principales villes.
 
-La dernière version du mod Seasons est nécessaire.]]></fr>
+La dernière version du mod Seasons est nécessaire.
+
+Changer le journal 2.0.0.0:
+- Correction de Fruitypes supplémentaires pour Crater Bay.
+- Rendu la croissance de l'herbe plus réaliste.
+- Abaissement des quantités de pluie en saison des pluies. (en raison des difficultés de récolte des cultures humides.)
+- Modification de quelques périodes de récolte pour être plus réaliste.]]></fr>
         <es><![CDATA[Crater Bay es un mod GEO para Seasons que simula la agricultura en el estado de Crater Bay, Nosy Be (Provincia de Antsiranana) en la costa norte de Madagascar.
 
 Limita con las selvas tropicales de Madagascar, esta región goza de un clima tropical, con mucha luz solar durante la estación seca, pero también un clima muy árido y húmedo durante la estación húmeda. La agricultura es un sector importante de Madagascar donde cultivan principalmente frijoles de vainilla y arroz, el arroz es el alimento básico, que abarca 1,34 millones de hectáreas en todo el país, con la excepción de algunas áreas semiáridas en el sur y en el suroeste, bajo tanto sistemas de riego como de secano. Otros cultivos alimentarios incluyen maíz (principalmente en las regiones del sur y centro-este), yuca, sorgo (en el sur), frijoles, cacahuetes, batatas y una amplia variedad de verduras. La yuca es un componente importante de la estrategia de reducción de riesgos de los pequeños productores porque es tolerante a la sequía y resistente a las enfermedades. La yuca, la batata y el maíz son la principal fuente de calorías en la temporada de carestía (de septiembre a enero). El maní se cultiva en suelos arenosos en la mayoría de los lugares y hace una contribución importante a la dieta y los ingresos del hogar. Los principales cultivos comerciales son algodón, vainilla, café, lichi, pimienta, tabaco, maní, caña de azúcar, sisal, clavo y ylang-ylang.
@@ -63,7 +81,13 @@ La agricultura en Madagascar está fuertemente influenciada por la lluvia de la 
 La ganadería y la silvicultura también son dos sectores importantes en Madagascar, con grandes extensiones de ébano, palisandro y flor de caoba en la costa este.
 Si bien el ganado está muy extendido, aproximadamente el 60 por ciento de las familias rurales dependen de él para sus ingresos. La producción animal está dominada por la cría extensiva de ganado, cerdos y aves de corral. También hay una creciente industria avícola moderna en las principales ciudades.
 
-Se requiere la última versión del mod Seasons.]]></es>
+Se requiere la última versión del mod Seasons.
+
+Registro de cambios 2.0.0.0:
+- Se corrigieron Fruitypes adicionales para Crater Bay.
+- Hizo el crecimiento de la hierba más realista.
+- Disminución de las cantidades de lluvia en la temporada de lluvia. (debido a las dificultades con la cosecha de cultivos húmedos).
+- Se cambiaron algunos tiempos de Cosecha para ser más realistas.]]></es>
         <ru><![CDATA[Crater Bay - это мод для GEO Seasons, который имитирует сельское хозяйство в штате Crater Bay, Нуси-Бе (провинция Анциранана) на северном побережье Мадагаскара.
 
 Граничащий с тропическими тропическими лесами Мадагаскара, этот регион имеет тропический климат, с большим количеством солнечного света в течение сухого сезона, а также очень сухой и влажный климат в течение влажного сезона. Сельское хозяйство является важным сектором Мадагаскара, где они выращивают в основном ванильные бобы и рис. Рис является основным продуктом питания, покрывая 1,34 млн. Га по всей стране, за исключением некоторых полузасушливых районов на юге и на юго-западе, под как дождевые, так и оросительные системы. Другие продовольственные культуры включают кукурузу (в основном выращивается в южных и центрально-восточных регионах), маниоку, сорго (на юге), бобы, арахис, сладкий картофель и большое разнообразие овощей. Кассава является важным компонентом стратегии снижения рисков мелких землевладельцев, поскольку она устойчива к засухе и устойчива к болезням. Кассава, сладкий картофель и кукуруза являются основным источником калорий в постное время года (с сентября по январь). Арахис выращивается на песчаных почвах в большинстве мест и вносит важный вклад в домашний рацион и доходы. Основными товарными культурами являются хлопок, ваниль, кофе, личи, перец, табак, арахис, сахарный тростник, сизаль, гвоздика и иланг-иланг.
@@ -73,7 +97,13 @@ Se requiere la última versión del mod Seasons.]]></es>
 Животноводство и лесное хозяйство также являются двумя важными секторами на Мадагаскаре, где на восточном побережье растут обширные насаждения черного дерева, розового дерева и красного дерева.
 В то время как домашний скот широко распространен, около 60 процентов сельских семей зависят от его дохода. В животноводстве преобладает разведение крупного рогатого скота, свиней и птицы. Вокруг основных городов растёт современная птицеводческая отрасль.
 
-Требуется последняя версия мода Seasons.]]></ru>
+Требуется последняя версия мода Seasons.
+
+Изменения 2.0.0.0:
+- Исправлены дополнительные Fruitypes для Crater Bay.
+- Сделал рост травы более реалистичным.
+- Снижение количества дождя в сезон дождей. (из-за борьбы с уборкой влажных культур)
+- Изменено несколько времен сбора урожая, чтобы быть более реалистичным.]]></ru>
         <pl><![CDATA[Crater Bay to mod GEO dla Seasons, który symuluje rolnictwo w stanie Crater Bay, Nosy Be (prowincja Antsiranana) na północnym wybrzeżu Madagaskaru.
 
 Graniczy z tropikalnymi lasami deszczowymi Madagaskaru, region ten cieszy się klimatem tropikalnym, z dużą ilością światła słonecznego w porze suchej, ale także bardzo suchym i wilgotnym klimatem w porze deszczowej. Rolnictwo jest ważnym sektorem Madagaskaru, gdzie uprawia się głównie fasolę waniliową i ryż. Ryż jest podstawowym pożywieniem, obejmującym 1,34 miliona hektarów w całym kraju, z wyjątkiem niektórych półpustynnych obszarów na południu i południowym zachodzie systemy zasilane deszczem i nawadniane. Inne uprawy roślin spożywczych obejmują kukurydzę (uprawianą głównie w regionach południowej i środkowo-wschodniej), maniok, sorgo (na południu), fasolę, orzeszki ziemne, słodkie ziemniaki i szeroką gamę warzyw. Maniok jest ważnym elementem strategii zmniejszania ryzyka drobnego gospodarstwa, ponieważ jest odporny na suszę i odporny na choroby. Maniok, batat i kukurydza są głównym źródłem kalorii w sezonie chudym (od września do stycznia). Orzeszki ziemne są uprawiane na glebach piaszczystych w większości lokalizacji i wnoszą istotny wkład w dietę i dochody gospodarstwa domowego. Głównymi uprawami pieniężnymi są bawełna, wanilia, kawa, liczi, pieprz, tytoń, orzeszki ziemne, trzcina cukrowa, sizal, goździk i ylang-ylang.
@@ -83,7 +113,13 @@ Na rolnictwo na Madagaskarze duży wpływ mają opady deszczu na wyspie, które 
 Zwierzęta gospodarskie i leśnictwo to także dwa ważne sektory na Madagaskarze, na wschodnim wybrzeżu kwitną rozległe drzewce hebanu, drzewa różanego i mahoniu.
 Podczas gdy inwentarz żywy jest szeroko rozpowszechniony, około 60 procent rodzin na wsi zależy od niego od swoich dochodów. W produkcji zwierzęcej dominuje ekstensywna hodowla zwierząt, świnie i drób. W głównych miastach rozwija się również nowoczesny przemysł drobiarski.
 
-Wymagana jest najnowsza wersja moda Seasons.]]></pl>
+Wymagana jest najnowsza wersja moda Seasons.
+
+Lista zmian 2.0.0.0:
+- Naprawiono dodatkowe owoce w zatoce kraterów.
+- Uczyniono wzrost trawy bardziej realistycznym.
+- Obniżone kwoty deszczu w sezonie deszczowym. (z powodu problemów ze zbiorami mokrych upraw).
+- Zmieniono kilka czasów żniw, aby były bardziej realistyczne.]]></pl>
         <it><![CDATA[Crater Bay è una mod GEO per Seasons che simula l'agricoltura nello stato di Crater Bay, Nosy Be (provincia di Antsiranana) sulla costa settentrionale del Madagascar.
 
 Delimitata dalle foreste pluviali tropicali del Madagascar, questa regione gode di un clima tropicale, con molta luce solare durante la stagione secca, ma anche un clima molto arido e umido durante la stagione delle piogge. L'agricoltura è un importante settore del Madagascar dove coltivano principalmente fagioli e riso alla vaniglia, il riso è l'alimento base, che copre 1,34 milioni di ettari in tutto il paese, ad eccezione di alcune aree semi-aride nel sud e nel sud-ovest, sotto sia sistemi alimentati a pioggia che irrigati. Altre colture alimentari includono mais (coltivato principalmente nelle regioni del sud e del centro-est), manioca, sorgo (nel sud), fagioli, arachidi, patate dolci e un'ampia varietà di verdure. La manioca è un componente importante della strategia di riduzione del rischio per i piccoli proprietari perché è resistente alla siccità e resistente alle malattie. Manioca, patate dolci e mais sono la principale fonte di calorie nella stagione magra (da settembre a gennaio). L'arachide è coltivata su terreni sabbiosi nella maggior parte dei luoghi e fornisce un importante contributo alla dieta e al reddito delle famiglie. Le principali colture in contanti sono cotone, vaniglia, caffè, litchi, pepe, tabacco, arachidi, canna da zucchero, sisal, chiodi di garofano e ylang-ylang.
@@ -93,7 +129,13 @@ L'agricoltura in Madagascar è fortemente influenzata dalle precipitazioni dell'
 Il bestiame e la silvicoltura sono anche due settori importanti in Madagascar, con vaste bancarelle di ebano, palissandro e mogano fioriscono sulla costa orientale.
 Mentre il bestiame è molto diffuso, con circa il 60 percento delle famiglie rurali dipende dal reddito. La produzione animale è dominata da un vasto allevamento di bestiame, suini e pollame. Vi è anche una moderna industria avicola in crescita nelle principali città.
 
-È necessaria l'ultima versione della mod Seasons.]]></it>
+È necessaria l'ultima versione della mod Seasons.
+
+Log delle modifiche 2.0.0.0:
+- Corretti i frutti aggiuntivi per Crater Bay.
+- Ha reso la crescita dell'erba più realistica.
+- Quantità di pioggia abbassate nella stagione delle piogge. (a causa delle difficoltà con la raccolta delle colture umide).
+- Modificati alcuni tempi del raccolto per renderli più realistici.]]></it>
         <br><![CDATA[Crater Bay é um mod GEO para o Seasons que simula a agricultura no estado de Crater Bay, Nosy Be (Província de Antsiranana) na costa norte de Madagascar.
 Este GEO é especificado para o The Crater Bay Map, mas funciona com todos os mapas do FS 19.
 
@@ -104,7 +146,13 @@ A agricultura em Madagascar é fortemente influenciada pelas chuvas da ilha, que
 A pecuária e a silvicultura também são dois setores importantes em Madagascar, com extensos estandes de ébano, pau-rosa e mogno na costa leste.
 Enquanto o gado é generalizado, cerca de 60% das famílias rurais dependem dele para obter renda. A produção animal é dominada pela criação extensiva de gado, porcos e aves. Há também uma crescente indústria avícola moderna nas principais cidades.
 
-A versão mais recente do mod Seasons é necessária.]]></br>
+A versão mais recente do mod Seasons é necessária.
+
+Changelog 2.0.0.0:
+- Fruitypes adicionais fixos para Crater Bay.
+- Tornou o crescimento da grama mais realista.
+- Quantidades reduzidas de chuva na estação das chuvas. (devido a lutas com a colheita de plantas úmidas.)
+- Mudou alguns tempos de colheita para ser mais realista.]]></br>
         <cs><![CDATA[Crater Bay是Seasons的GEO模式，它模拟了马达加斯加北部海岸的Nosy Be（安特西拉纳纳州）的Crater湾州的农业。
 该GEO是为Crater Bay Map指定的，但可用于所有FS 19地图。
 
@@ -115,7 +163,13 @@ A versão mais recente do mod Seasons é necessária.]]></br>
 畜牧业和林业也是马达加斯加的两个重要部门，在东海岸，乌木，花梨木和桃花心木林立。
 尽管畜牧业很普遍，但约有60％的农村家庭依靠畜牧业获得收入。畜牧业以广泛的牲畜饲养，猪和家禽为主。在主要城市附近，现代家禽业也在发展。
 
-需要最新版本的Seasons mod。]]></cs>
+需要最新版本的Seasons mod。
+
+更改日志2.0.0.0：
+-修正了Crater Bay的其他Fruitypes。
+-使草的生长更加真实。
+-在雨季降低了雨量。 （由于与收获潮湿的农作物作斗争。）
+-更改了一些作物收获时间，以使其更加现实。]]></cs>
         <ct><![CDATA[Crater Bay是Seasons的GEO模式，它模擬了馬達加斯加北部海岸的Nosy Be（安特西拉納納州）的Crater灣州的農業。
 該GEO是為Crater Bay Map指定的，但可用於所有FS 19地圖。
 
@@ -126,7 +180,13 @@ A versão mais recente do mod Seasons é necessária.]]></br>
 畜牧業和林業也是馬達加斯加的兩個重要部門，東海岸盛產黑檀木，花梨木和桃花心木。
 儘管畜牧業很普遍，但約有60％的農村家庭依靠畜牧業來獲得收入。畜牧業以廣泛的牲畜飼養，豬和家禽為主。在主要城市附近，現代家禽業也在發展。
 
-需要最新版本的Seasons mod。]]></ct>
+需要最新版本的Seasons mod。
+
+更改日誌2.0.0.0：
+-修正了Crater Bay的其他Fruitypes。
+-使草的生長更加真實。
+-在雨季降低了雨量。 （由於與收穫潮濕的農作物作鬥爭。）
+-更改了一些作物收穫時間，以使其更加現實。]]></ct>
         <cz><![CDATA[Crater Bay je GEO mod pro Seasons, který simuluje zemědělství ve státě Crater Bay, Nosy Be (provincie Antsiranana) na severním pobřeží Madagaskaru.
 Tento GEO je určen pro mapu The Crater Bay Map, ale pracuje se všemi mapami FS 19.
 
@@ -137,7 +197,13 @@ Zemědělství na Madagaskaru je silně ovlivněno srážkami ostrova, které js
 Hospodářská zvířata a lesnictví jsou na Madagaskaru také dvěma důležitými sektory, na východním pobřeží vzkvétají rozsáhlé porosty ebenového, růžového a mahagonového dřeva.
 Zatímco hospodářská zvířata jsou široce rozšířená, podle jejich příjmu závisí na tom asi 60 procent venkovských rodin. Živočišné výrobě dominuje extenzivní chov hospodářských zvířat, prasata a drůbež. V hlavních městech roste také moderní drůbežářský průmysl.
 
-Vyžaduje se nejnovější verze režimu Seasons.]]></cz>
+Vyžaduje se nejnovější verze režimu Seasons.
+
+Changelog 2.0.0.0:
+- Opraveny další ovocné plodiny pro Crater Bay.
+- Realizovaný růst trávy.
+- Snížené množství deště v období dešťů. (kvůli potížím se sklizní mokrých plodin.)
+- Změnilo se několik časů sklizně plodin, aby byly realističtější.]]></cz>
         <nl><![CDATA[Crater Bay is een GEO-mod voor seizoenen die de landbouw simuleert in de staat Crater Bay, Nosy Be (provincie Antsiranana) aan de noordkust van Madagaskar.
 Deze GEO is gespecificeerd voor The Crater Bay Map, maar werkt met alle FS 19-kaarten.
 
@@ -148,7 +214,13 @@ De landbouw in Madagaskar wordt sterk beïnvloed door de regenval van het eiland
 Vee en bosbouw zijn ook twee belangrijke sectoren in Madagaskar, met uitgebreide standplaatsen van ebbenhout, rozenhout en mahonie bloeien aan de oostkust.
 Hoewel Vee veel voorkomt, is ongeveer 60 procent van de landelijke gezinnen afhankelijk van hun inkomen. De dierlijke productie wordt gedomineerd door extensieve veehouderij, varkens en pluimvee. Er is ook een groeiende moderne pluimvee-industrie rond de belangrijkste steden.
 
-De nieuwste versie van de Seasons-mod is vereist.]]></nl>
+De nieuwste versie van de Seasons-mod is vereist.
+
+Changelog 2.0.0.0:
+- Vaste extra fruittypes voor Crater Bay.
+- De groei van gras realistischer gemaakt.
+- Verlaagde hoeveelheden regen in het regenseizoen. (vanwege problemen met het oogsten van natte gewassen.)
+- Enkele oogsttijden gewijzigd om realistischer te zijn.]]></nl>
         <hu><![CDATA[Crater Bay egy GEO mod az évszakokra, amely szimulálja a mezőgazdaságot Crater Bay államában, Nosy Be (Antsiranana tartomány) Madagaszkár északi partján.
 Ezt a GEO-t a The Crater Bay Map meghatározza, de az összes FS 19 Maps programmal együtt működik.
 
@@ -159,7 +231,13 @@ Madagaszkár mezőgazdaságát nagymértékben befolyásolja a sziget csapadékm
 Az állattenyésztés és az erdőgazdálkodás szintén két fontos ágazat Madagaszkáron, kiterjedt ébenfa, rózsafa és mahagóni állványok virágzik a keleti parton.
 Míg az állattenyésztés széles körben elterjedt, a vidéki családok körülbelül 60 százaléka függ attól, hogy jövedelmet biztosítsanak. Az állattenyésztést az extenzív állattenyésztés, sertések és baromfi uralja. A fő városok környékén egyre növekszik a modern baromfiipar.
 
-A Seasons mod legújabb verziója szükséges.]]></hu>
+A Seasons mod legújabb verziója szükséges.
+
+Changelog 2.0.0.0:
+- Javítva további gyümölcsös típusok a Crater Bay számára.
+- A fű növekedése realisztikusabbá vált.
+- Csökkent esőmennyiség az esőszakban. (a nedves növények betakarításával kapcsolatos küzdelem miatt)
+- Megváltoztatott néhány betakarítási időt realisztikusabbá.]]></hu>
         <jp><![CDATA[クレーターベイは、マダガスカルの北海岸にあるノシベ（アンツィラナナ州）のクレーターベイ州の農業をシミュレートする、季節のGEO modです。
 このGEOはクレーターベイマップに指定されていますが、すべてのFS 19マップで機能します。
 
@@ -170,7 +248,13 @@ A Seasons mod legújabb verziója szükséges.]]></hu>
 家畜と林業もマダガスカルの2つの重要な部門であり、東海岸では黒檀、ローズウッド、マホガニーの大規模な林が見られます。
 家畜は広範ですが、農村部の家族の約60％が収入に依存しています。動物の生産は、大規模な家畜飼育、豚および家禽に支配されています。また、主要都市の周辺には、近代的な家禽産業が成長しています。
 
-Seasons modの最新バージョンが必要です。]]></jp>
+Seasons modの最新バージョンが必要です。
+
+変更ログ2.0.0.0：
+-クレーターベイの追加のフルーティープを修正しました。
+-草の成長をより現実的にしました。
+-雨季の降雨量。 （湿った作物の収穫に苦労したため）
+-いくつかの収穫時期をより現実的なものに変更しました。]]></jp>
         <kr><![CDATA[크레이터 베이는 마다가스카르의 북부 해안에있는 코시 베이 (안 시라 나나 주)의 크레이터 베이 주에서 농업을 시뮬레이션하는 시즌 용 GEO 모드입니다.
 이 GEO는 크레이터 베이 맵에 지정되었지만 모든 FS 19 맵에서 작동합니다.
 
@@ -181,7 +265,13 @@ Seasons modの最新バージョンが必要です。]]></jp>
 가축과 임업은 마다가스카르의 두 가지 중요한 부문으로, 동부 해안에서 광범위한 흑단, 자단, 마호가니 스탠드가 있습니다.
 가축이 널리 퍼져있는 반면, 농촌 가족의 약 60 %가 소득에 따라 다릅니다. 가축 생산은 광범위한 가축 사육, 돼지 및 가금류에 의해 좌우됩니다. 주요 도시 주변에는 현대 가금류 산업도 성장하고 있습니다.
 
-최신 버전의 시즌 모드가 필요합니다.]]></kr>
+최신 버전의 시즌 모드가 필요합니다.
+
+변경 내역 2.0.0.0 :
+-크레이터 베이의 추가 과일을 수정했습니다.
+-잔디 성장을 더욱 현실적으로 만들었습니다.
+-우기에는 비가 내 렸습니다. (습식 작물 수확으로 인한 투쟁으로 인해)
+-좀 더 현실적으로 작물 수확 시간을 변경했습니다.]]></kr>
         <pt><![CDATA[Crater Bay é um mod GEO para o Seasons que simula a agricultura no estado de Crater Bay, Nosy Be (Província de Antsiranana) na costa norte de Madagascar.
 Este GEO é especificado para o The Crater Bay Map, mas funciona com todos os mapas do FS 19.
 
@@ -192,7 +282,13 @@ A agricultura em Madagascar é fortemente influenciada pelas chuvas da ilha, que
 A pecuária e a silvicultura também são dois setores importantes em Madagascar, com extensos estandes de ébano, pau-rosa e mogno na costa leste.
 Enquanto o gado é generalizado, cerca de 60% das famílias rurais dependem dele para obter renda. A produção animal é dominada pela criação extensiva de gado, porcos e aves. Há também uma crescente indústria avícola moderna nas principais cidades.
 
-A versão mais recente do mod Seasons é necessária.]]></pt>
+A versão mais recente do mod Seasons é necessária.
+
+Changelog 2.0.0.0:
+- Fruitypes adicionais fixos para Crater Bay.
+- Tornou o crescimento da grama mais realista.
+- Quantidades reduzidas de chuva na estação das chuvas. (devido a lutas com a colheita de plantas úmidas.)
+- Mudou alguns tempos de colheita para ser mais realista.]]></pt>
         <ro><![CDATA[Crater Bay este un mod GEO pentru Seasons care simulează agricultura în statul Crater Bay, Nosy Be (provincia Antsiranana) de pe coasta de nord a Madagascarului.
 Această OUG este specificată pentru The Crater Bay Map, dar funcționează cu toate hărțile FS 19.
 
@@ -203,7 +299,13 @@ Agricultura din Madagascar este puternic influențată de precipitațiile insule
 Animalele și silvicultura sunt, de asemenea, două sectoare importante în Madagascar, cu stânduri extinse de abanos, lemn de trandafir și mahon înfloresc pe coasta de est.
 În timp ce zootehnia este răspândită, aproximativ 60 la sută din familiile rurale depind de aceasta pentru venitul lor. Producția animală este dominată de creșterea extensivă a animalelor, porci și păsări de curte. Există, de asemenea, o industrie modernă de pasăre în creștere în jurul principalelor orașe.
 
-Este necesară cea mai recentă versiune a modului Seasons.]]></ro>
+Este necesară cea mai recentă versiune a modului Seasons.
+
+Changelog 2.0.0.0:
+- Fructe adiționale fixe pentru Golful Crater.
+- A făcut creșterea Erbii mai realistă.
+- cantități reduse de ploaie în sezonul ploilor. (din cauza luptelor cu recoltarea culturilor umede.)
+- Au fost schimbate câteva ori de recoltare pentru a fi mai realiste.]]></ro>
         <tr><![CDATA[Krater Koyu, Madagaskar'ın Kuzey Kıyısı'ndaki Nosy Be (Antsiranana Eyaleti) eyaletindeki Krater Koyu'ndaki tarımı simüle eden Mevsim için bir GEO modudur.
 Bu GEO, Krater Körfezi Haritası için belirtilmiştir, ancak tüm FS 19 Haritaları ile çalışır.
 
@@ -214,7 +316,13 @@ Madagaskar'daki tarım, genellikle tüm Doğu kıyılarında bol olan adanın ya
 Hayvancılık ve ormancılık da Madagaskar'da iki önemli sektördür; Doğu kıyılarında geniş abanoz, gül ağacı ve maun ayaklıkları vardır.
 Hayvancılık yaygın olmakla birlikte, kırsal ailelerin yaklaşık yüzde 60'ı gelirlerine bağlı olarak değişmektedir. Hayvansal üretim, hayvancılık, domuz ve kümes hayvanı yetiştiriciliğine hakimdir. Ayrıca ana şehirlerin etrafında büyüyen modern bir kümes hayvanları endüstrisi var.
 
-Seasons modunun en son sürümü gereklidir.]]></tr>
+Seasons modunun en son sürümü gereklidir.
+
+Değişiklik günlüğü 2.0.0.0:
+- Krater Körfezi için Sabit Ek Meyveler.
+- Çim büyümesini daha gerçekçi hale getirdi.
+- Yağış mevsiminde yağmur miktarı azalır. (ıslak mahsullerin toplanmasıyla mücadeleler nedeniyle.)
+- Birkaç Mahsul Hasat zamanı daha gerçekçi olacak şekilde değiştirildi.]]></tr>
     </description>
     <iconFilename>icon.dds</iconFilename>
     <credits><![CDATA[
