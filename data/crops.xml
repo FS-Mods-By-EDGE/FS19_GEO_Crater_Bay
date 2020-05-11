@@ -27,7 +27,7 @@
 
 		<growthTransitions>
 			<gt index="1"> <!--late winter to early spring-->
-                <crop name="BARLEY" incrementByOneRange="4"/>
+				<crop name="BARLEY" incrementByOneRange="3"/>
                 <crop name="OAT" incrementByOneRange="3-4"/>
                 <crop name="WHEAT" incrementByOneRange="2-5"/>
                 <crop name="CANOLA" incrementByOneRange="3-5"/>
@@ -45,7 +45,7 @@
 				<crop name="HEMP" setRange="1-MAX" setTo="WITHERED"/>
             </gt>
 			<gt index="2"> <!--early spring to mid spring-->
-                <crop name="BARLEY" incrementByRange="4-5" incrementBy="2"/>
+                <crop name="BARLEY" incrementByOneRange="4"/>
                 <crop name="OAT" incrementByOneRange="4-5"/>
                 <crop name="WHEAT" incrementByOneRange="3-6"/>
                 <crop name="CANOLA" incrementByOneRange="4-6"/>
@@ -64,7 +64,7 @@
 				<crop name="HEMP" setRange="1-MAX" setTo="WITHERED"/>
             </gt>
 			<gt index="3"> <!--mid spring to late spring-->
-                <crop name="BARLEY" incrementByOneRange="6"/>
+                <crop name="BARLEY" incrementByRange="4-5" incrementBy="2"/>
                 <crop name="OAT" incrementByOneRange="5-6"/>
                 <crop name="WHEAT" incrementByOneRange="4-6"/>
                 <crop name="CANOLA" incrementByOneRange="6" incrementByRange="4-5" incrementBy="2"/>
@@ -210,7 +210,7 @@
 				<crop name="HEMP" incrementByOneRange="4-6"/>
             </gt>
 			<gt index="11"> <!--early winter to mid winter-->
-                <crop name="BARLEY" incrementByOneRange="2"/>
+                <crop name="BARLEY" incrementByOneRange="1"/>
                 <crop name="OAT" incrementByOneRange="1-2"/>
                 <crop name="WHEAT" incrementByOneRange="1-3"/>
                 <crop name="CANOLA" incrementByOneRange="1-3"/>
@@ -229,7 +229,7 @@
 				<crop name="HEMP" incrementByOneRange="5-6"/>
             </gt>
 			<gt index="12"> <!--mid winter to late winter-->
-				<crop name="BARLEY" incrementByOneRange="3"/>
+				<crop name="BARLEY" incrementByOneRange="2"/>
                 <crop name="OAT" incrementByOneRange="2-3"/>
                 <crop name="WHEAT" incrementByOneRange="1-4"/>
                 <crop name="CANOLA" incrementByOneRange="2-4"/>
@@ -247,23 +247,23 @@
 				<crop name="HEMP" incrementByOneRange="6"/>
             </gt>
             <gt index="FIRST_LOAD_TRANSITION">
-                <crop name="BARLEY" setRange="1-MAX" setTo="CUT"/>
-                <crop name="COTTON" setRange="1-MAX" setTo="CUT"/>
+                <crop name="BARLEY" setRange="1-MAX" setTo="WITHERED"/>
+                <crop name="COTTON" setRange="1-MAX" setTo="WITHERED"/>
                 <crop name="SUGARCANE" setRange="1-MAX" setTo="1"/>
-                <crop name="OAT" setRange="1-MAX" setTo="CUT"/>
-                <crop name="WHEAT" setRange="1-MAX" setTo="CUT"/>
-                <crop name="CANOLA" setRange="1-MAX" setTo="CUT"/>
-                <crop name="MAIZE" setRange="1-MAX" setTo="CUT"/>
-                <crop name="SOYBEAN" setRange="1-MAX" setTo="CUT"/>
-                <crop name="SUNFLOWER" setRange="1-MAX" setTo="CUT"/>
+                <crop name="OAT" setRange="1-MAX" setTo="WITHERED"/>
+                <crop name="WHEAT" setRange="1-MAX" setTo="WITHERED"/>
+                <crop name="CANOLA" setRange="1-MAX" setTo="WITHERED"/>
+                <crop name="MAIZE" setRange="1-MAX" setTo="WITHERED"/>
+                <crop name="SOYBEAN" setRange="1-MAX" setTo="WITHERED"/>
+                <crop name="SUNFLOWER" setRange="1-MAX" setTo="WITHERED"/>
                 <crop name="POTATO" setRange="1-MAX" setTo="WITHERED"/>
                 <crop name="SUGARBEET" setRange="1-MAX" setTo="WITHERED"/>
-                <crop name="POPLAR" setRange="1-MAX" setTo="CUT"/>
+                <crop name="POPLAR" setRange="1-MAX" setTo="WITHERED"/>
                 <crop name="GRASS" setRange="1-MAX" setTo="3"/>
-                <crop name="OILSEEDRADISH" setRange="1-MAX" setTo="CUT"/>
-                <crop name="POPPY" setRange="1-MAX" setTo="CUT"/>
-                <crop name="POPPYFLOWER" setRange="1-MAX" setTo="CUT"/>
-                <crop name="HEMP" setRange="1-MAX" setTo="CUT"/>
+                <crop name="OILSEEDRADISH" setRange="1-MAX" setTo="WITHERED"/>
+                <crop name="POPPY" setRange="1-MAX" setTo="WITHERED"/>
+                <crop name="POPPYFLOWER" setRange="1-MAX" setTo="WITHERED"/>
+                <crop name="HEMP" setRange="1-MAX" setTo="WITHERED"/>
             </gt>
 		</growthTransitions>
     </growth>
@@ -304,26 +304,26 @@
                     germinatesoilMoisture="4"
                     youngPlantMaxState="4"
                     maxFertiliseState="4"/>
-            <options    seedDroughtResistanceFactor="1"
-                        youngPlantDroughtResistanceFactor="2"
-                        maturePlantDroughtResistanceFactor="3"
-                        seedFrostResistanceFactor="3"
-                        youngPlantFrostResistanceFactor="4"
-                        maturePlantFrostResistanceFactor="1"/>
+            <options    seedDroughtResistanceFactor="4"
+                        youngPlantDroughtResistanceFactor="3"
+                        maturePlantDroughtResistanceFactor="4"
+                        seedFrostResistanceFactor="1"
+                        youngPlantFrostResistanceFactor="2"
+                        maturePlantFrostResistanceFactor="2"/>
             <rotation category="CEREAL"
                       returnPeriod="2" />
         </fruitType>
 		<fruitType name="POPPYFLOWER">
             <cultivation plantsWeed="true"/>
             <growth germinateTemp="15"
-                    germinatesoilMoisture="5"
+                    germinatesoilMoisture="4"
                     youngPlantMaxState="4"
                     maxFertiliseState="4"/>
-            <options    seedDroughtResistanceFactor="1"
-                        youngPlantDroughtResistanceFactor="2"
+            <options    seedDroughtResistanceFactor="4"
+                        youngPlantDroughtResistanceFactor="3"
                         maturePlantDroughtResistanceFactor="3"
-                        seedFrostResistanceFactor="3"
-                        youngPlantFrostResistanceFactor="4"
+                        seedFrostResistanceFactor="2"
+                        youngPlantFrostResistanceFactor="3"
                         maturePlantFrostResistanceFactor="1"/>
             <rotation category="CEREAL"
                       returnPeriod="2" />
@@ -334,13 +334,13 @@
                     germinatesoilMoisture="5"
                     youngPlantMaxState="4"
                     maxFertiliseState="4"/>
-            <options    seedDroughtResistanceFactor="1"
-                        youngPlantDroughtResistanceFactor="2"
+            <options    seedDroughtResistanceFactor="3"
+                        youngPlantDroughtResistanceFactor="4"
                         maturePlantDroughtResistanceFactor="3"
-                        seedFrostResistanceFactor="3"
-                        youngPlantFrostResistanceFactor="4"
-                        maturePlantFrostResistanceFactor="1"/>
-            <rotation category="CEREAL"
+                        seedFrostResistanceFactor="1"
+                        youngPlantFrostResistanceFactor="3"
+                        maturePlantFrostResistanceFactor="2"/>
+            <rotation category="OILSEED"
                       returnPeriod="2" />
         </fruitType>
     </fruitTypes>
